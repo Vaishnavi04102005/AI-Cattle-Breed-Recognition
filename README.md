@@ -18,12 +18,22 @@
 - Matplotlib
 - OpenCV (Image Processing)
 - Scikit-learn
+## How to Run
+- Upload image
+- Run Model
+- Get prediction
+  
 ## 📁 Project Structure
 
 ├── dataset
 ├── model
 ├── notebook.ipynb
 ├── README.md
+## 📷 Project Demo
+
+![Output](Screenshot%20(5).png)
+
+![Output](Screenshot%20(6).png)
 ## Project Status
 
 🚧 This project is currently under development.
