@@ -24,11 +24,9 @@
 ├── model
 ├── notebook.ipynb
 ├── README.md
-## 📌 Note
+## Project Status
 
-- This project is developed for learning and educational purposes.
-- Model accuracy depends on dataset quality and training data.
-- The project was implemented and tested using Google Colab.
-- Results may vary with different image inputs.
-
+🚧 This project is currently under development.
+I am actively working on improving the model accuracy and fixing prediction issues.
+Future updates will include better performance and error handling.
 
